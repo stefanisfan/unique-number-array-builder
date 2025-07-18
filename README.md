@@ -17,5 +17,5 @@
 <img width="1001" height="339" alt="Block diagram (unique-number-array-builder)" src="https://github.com/user-attachments/assets/d569e7f5-7344-4cb3-9867-e2ba52d0ceae" />
 
 ### Requirements:
-- LabVIEW (2020-present)
+- LabVIEW (2020 version or newer)
 
