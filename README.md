@@ -2,7 +2,7 @@
 
 ## This LabVIEW program lets you type unique numbers into a list.
 
-### Key highlights
+### Key highlights:
 - It only adds a number if it's not already there.
 - It stops when you have added ten different numbers or you hit the STOP button.
 - It shows the sorted array, the smallest and biggest numbers.
